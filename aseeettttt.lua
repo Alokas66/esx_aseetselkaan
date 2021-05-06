@@ -63,7 +63,7 @@ function RemoveGears()
 	end
 	Weapons = {}
 end
-
+--
 function SpawnObject(model, coords, cb)
 
   local model = (type(model) == 'number' and model or GetHashKey(model))
