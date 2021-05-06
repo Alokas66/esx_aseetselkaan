@@ -18,3 +18,4 @@ Config.RealWeapons = {
 	{name = 'WEAPON_PUMPSHOTGUN_MK2', 	bone = 24818, x = 0.1, y = -0.15, z = 0.0, xRot = 0.0, yRot = 160.0, zRot = 0.0, category = 'shotgun', 	model = 'w_sg_pumpshotgun'},
 	{name = 'WEAPON_MG',			 	bone = 24818, x = 0.1, y = -0.15, z = 0.0, xRot = 0.0, yRot = 135.0, zRot = 0.0, category = 'assault',	model = 'w_mg_mg'}
 }
+--
